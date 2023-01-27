@@ -1,0 +1,17 @@
+{
+    "name": "mkennedy/name-service",
+    "description": "A name lookup service",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mkennedy\\NameService\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mark Kennedy",
+            "email": "mkennedy@fool.com"
+        }
+    ],
+    "require": {}
+}
